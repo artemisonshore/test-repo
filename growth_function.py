@@ -5,8 +5,6 @@ Given cosmological parameters, this code calculates the matter growth function s
 nanoom.py is for numerical derivative and integration.
 If have any question, feel free to contact me.
 """
-
-
 import matplotlib.pyplot as plt
 import numpy as np
 import scipy.integrate as integrate
