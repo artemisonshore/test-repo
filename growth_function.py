@@ -13,7 +13,6 @@ import file_open as fo
 import nanoom as nn
 
 def run_D (m, w):
-
 	# Parameters
 	m_s = (299792458)**-1	# m/s = 1/(3x10^8)
 	l = 100
